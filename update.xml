@@ -114,13 +114,13 @@
         <Version>
           <Major>1</Major>
           <Minor>0</Minor>
-          <Build>4</Build>
+          <Build>5</Build>
           <Revision>0</Revision>
         </Version>
         <ExtensionDescription>Ares - The new MediaPortal 1 skin that is designed for 1080p displays and is hugely customizable with editing elements like tile images and names directly in the homescreen.</ExtensionDescription>
         <VersionDescription>Public release</VersionDescription>
         <DevelopmentStatus>Stable</DevelopmentStatus>
-        <OnlineLocation>https://github.com/Wizard123/Ares-for-MP1/Ares.mpe1</OnlineLocation>
+        <OnlineLocation>https://github.com/Wizard123/Ares-for-MP1.Ares.mpe1</OnlineLocation>
         <ReleaseDate>2016-07-28T15:53:49.2330009+01:00</ReleaseDate>
         <Tags />
         <Location>C:\Users\tribalman\Google Drive\File Storage\Ares\Ares.mpe1</Location>
@@ -157,7 +157,7 @@
       <ProjectSettings>
         <FolderGroups />
       </ProjectSettings>
-      <IsSkin>true</IsSkin>
+      <IsSkin>false</IsSkin>
     </PackageClass>
   </Items>
 </ExtensionCollection>
