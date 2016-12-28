@@ -114,11 +114,17 @@
         <Version>
           <Major>1</Major>
           <Minor>0</Minor>
-          <Build>5</Build>
-          <Revision>1</Revision>
+          <Build>6</Build>
+          <Revision>0</Revision>
         </Version>
         <ExtensionDescription>Ares - The new MediaPortal 1 skin that is designed for 1080p displays and is hugely customizable with editing elements like tile images and names directly in the homescreen.</ExtensionDescription>
-        <VersionDescription>Public release</VersionDescription>
+        <VersionDescription>Support for:
+MyLyrics
+Global music search
+MyEmulators2
+
+Added 16 row tvguide option
+Should now report 4k and 8k media info</VersionDescription>
         <DevelopmentStatus>Stable</DevelopmentStatus>
         <OnlineLocation>https://github.com/Wizard123/Ares-for-MP1/raw/master/Ares.mpe1</OnlineLocation>
         <ReleaseDate>2016-12-22T15:53:49</ReleaseDate>
