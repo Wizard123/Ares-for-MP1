@@ -114,21 +114,25 @@
         <Version>
           <Major>1</Major>
           <Minor>0</Minor>
-          <Build>7</Build>
+          <Build>8</Build>
           <Revision>0</Revision>
         </Version>
         <ExtensionDescription>Ares - The new MediaPortal 1 skin that is designed for 1080p displays and is hugely customizable with editing elements like tile images and names directly in the homescreen.</ExtensionDescription>
-        <VersionDescription>-Added codec logos in music now playing screen
--Adjusted music now playing layout to better fit conformity
--Added 4k and 8k media info labels in osd's
--Added support for ArgusTV
--Added support for htpc info
--Added support for Rockstar
--Added support for imdb+
--Added support for SkyGo</VersionDescription>
+        <VersionDescription>Added - Myanime3 support
+Fixed itemcount missing from arus screens
+Fixed multilines in titles that are really long in latest media home.
+Fixed non updated plugin list after update
+Added - Showtimes support
+Added - Year to movie title in movpics
+Added - Trakt options in movpics movie details
+Fixed fanart overlaying and missing artist/title in radiotime
+Fixed AresPlugin to support XP os
+Added - MyFilms support
+Added - latestTV media to show on recordedtv also.
+Added - gb/de/clean and Ajs movie logos + setting to choose which you want to use.</VersionDescription>
         <DevelopmentStatus>Stable</DevelopmentStatus>
         <OnlineLocation>https://github.com/Wizard123/Ares-for-MP1/raw/master/Ares.mpe1</OnlineLocation>
-        <ReleaseDate>2016-12-22T15:53:49</ReleaseDate>
+        <ReleaseDate>2017-02-21T15:53:49</ReleaseDate>
         <Tags />
         <Location>C:\Users\984.c.hall\Google Drive\File Storage\Ares\Ares.mpe1</Location>
         <Params>
